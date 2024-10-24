@@ -27,6 +27,10 @@ public class Torneo {
     private ArrayList <Entrenador>entrenadores = new ArrayList<>();
     private ArrayList <Combate>combates = new ArrayList<>();
 
+    public Torneo(int id, String nombre, String nombreAdmin, String password, int i) {
+
+    }
+
     //Añadimos nuevo entrenador a la lista de entrenadores;
 
     public void añadirEntrenadores(long idEntrenador, String nombreEntreandor,  String nacionalidadEntrenador)
@@ -53,11 +57,6 @@ public class Torneo {
         this.id = id;
         this.nombre = nombre;
         this.codRegion = codRegion;
-    }
-
-    public Torneo()
-    {
-
     }
 
     //Getters SEtters

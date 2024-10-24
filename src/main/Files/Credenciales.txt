@@ -1,0 +1,4 @@
+Rodrigo,html564,Admin,123456789
+Martin,switch11*,Admin Torneo,987654321
+Pepe,true77,Entrenador,143567678
+Maria,host12,Entrenador,546783434
